@@ -1,0 +1,8 @@
+/build/
+/cmake-build-*/
+/bin/
+*.o
+*.a
+*.so
+*.gcda
+*.gcno
